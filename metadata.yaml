@@ -1,0 +1,29 @@
+_repo: In-en-om-Java-s-ParadijsDe-Aarde-en-haar-Volken-1907_19832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Koorevaar, A.
+    gutenberg_agent_id: '8912'
+    url: http://www.gutenberg.org/2009/agents/8912
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19832'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Java (Indonesia) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Copenhagen (Denmark) -- Description and travel'
+- !lcc 'DL'
+title: 'In en om Java''s Paradijs
+
+  De Aarde en haar Volken, 1907'
+url: http://www.gutenberg.org/ebooks/19832
